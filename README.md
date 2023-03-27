@@ -1,1 +1,2 @@
-This is my fully working calculator.
+This is my last, fully working calculator.
+No GUI for now.
